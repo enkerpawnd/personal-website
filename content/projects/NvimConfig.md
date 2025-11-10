@@ -1,7 +1,7 @@
 ---
 date: '2024-07-26'
 title: 'Nvim Config'
-github: 'https://github.com/scythemenace/nvim-config'
+github: 'https://github.com/enkerpawnd/nvim-config'
 external: ''
 tech:
   - Lua

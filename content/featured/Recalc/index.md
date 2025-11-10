@@ -2,7 +2,7 @@
 date: '3'
 title: 'Recalc'
 cover: './demo.png'
-github: 'https://github.com/scythemenace/Recalc'
+github: 'https://github.com/enkerpawnd/Recalc'
 external: 'https://stabl.rocks/ShowModulePublish?modulePublishId=1ebfb57b-abdd-4d84-b15a-dd40b165ff4f'
 tech:
   - Elm

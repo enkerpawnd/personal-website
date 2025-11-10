@@ -1,7 +1,7 @@
 ---
 date: '2024-06-29'
 title: 'Clock JS'
-github: 'https://github.com/scythemenace/clock-js'
+github: 'https://github.com/enkerpawnd/clock-js'
 external: ''
 tech:
   - JavaScript

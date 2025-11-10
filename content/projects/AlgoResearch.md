@@ -1,7 +1,7 @@
 ---
 date: '2024-01-22'
 title: 'CS2XC3 Algorithm Research'
-github: 'https://github.com/scythemenace/CS2XC3_algorithms_research'
+github: 'https://github.com/enkerpawnd/CS2XC3_algorithms_research'
 external: ''
 tech:
   - Python

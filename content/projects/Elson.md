@@ -1,7 +1,7 @@
 ---
 date: '2023-01-01'
 title: 'Elson Dental Office Website'
-github: 'https://github.com/scythemenace/elsondental.github.io'
+github: 'https://github.com/enkerpawnd/elsondental.github.io'
 external: ''
 tech:
   - HTML

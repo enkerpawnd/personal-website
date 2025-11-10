@@ -1,7 +1,7 @@
 ---
 date: '2023-03-06'
 title: 'ML_01'
-github: 'https://github.com/scythemenace/ML_01'
+github: 'https://github.com/enkerpawnd/ML_01'
 external: ''
 tech:
   - Goodnotes

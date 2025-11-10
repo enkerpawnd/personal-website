@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 title: 'CPP Reboot'
-github: 'https://github.com/scythemenace/CPPReboot'
+github: 'https://github.com/enkerpawnd/CPPReboot'
 external: ''
 tech:
   - C++

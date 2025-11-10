@@ -1,7 +1,7 @@
 ---
 date: '2024-06-29'
 title: 'Fullstack Learning Projects'
-github: 'https://github.com/scythemenace/fullstack-learning-project-files'
+github: 'https://github.com/enkerpawnd/fullstack-learning-project-files'
 external: ''
 tech:
   - JavaScript

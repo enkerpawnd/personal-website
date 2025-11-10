@@ -1,7 +1,7 @@
 ---
 date: '2023-01-27'
 title: 'CS1XC3 CS Practice and Dev Basics'
-github: 'https://github.com/scythemenace/CS1XC3'
+github: 'https://github.com/enkerpawnd/CS1XC3'
 external: ''
 tech:
   - C

@@ -1,7 +1,7 @@
 ---
 date: '2024-08-16'
 title: 'Todo App'
-github: 'https://github.com/scythemenace/todo_app'
+github: 'https://github.com/enkerpawnd/todo_app'
 external: ''
 tech:
   - React

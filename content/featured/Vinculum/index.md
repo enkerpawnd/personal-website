@@ -2,7 +2,7 @@
 date: '1'
 title: 'Vinculum'
 cover: './vinculum.png'
-github: 'https://github.com/scythemenace/Vinculum'
+github: 'https://github.com/enkerpawnd/Vinculum'
 external: ''
 tech:
   - React

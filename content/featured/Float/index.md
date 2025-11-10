@@ -2,7 +2,7 @@
 date: '2'
 title: 'Float'
 cover: './demo.png'
-github: 'https://github.com/scythemenace/Float'
+github: 'https://github.com/enkerpawnd/Float'
 external: 'https://float-frontend.onrender.com/'
 tech:
   - React
